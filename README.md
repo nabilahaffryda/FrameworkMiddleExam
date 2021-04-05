@@ -1,4 +1,4 @@
-# FrameWork Based Programming - Middle EXam
+# FrameWork Based Programming - Middle Exam
 
 Name    : Nabilah Affryda Rihadatul'aisy
 NIM     : 1841720012
