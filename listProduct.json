@@ -1,0 +1,114 @@
+{
+    "products": [
+        {
+            "userID": 1,
+            "id": 1,
+            "nama": "LG UN714K Smart TV 43UN7100PTA",
+            "price": 5150000,
+            "img": "../assets/LG43UN7100PTA.png",
+            "stock": 5
+        },
+
+        {
+            "userID": 1,
+            "id": 2,
+            "nama": "LG UN70 TV 55UN7000PTA",
+            "price": 6916000,
+            "img": "../assets/LG65UN7000PTA.png",
+            "stock": 7
+        },
+
+        {
+            "userID": 1,
+            "id": 3,
+            "nama": "POLYTRON PLD 43AS1558 Smart TV",
+            "price": 4199000,
+            "img": "../assets/POLYTRON43AS1558.png",
+            "stock": 3
+        },
+
+        {
+            "userID": 1,
+            "id": 4,
+            "nama": "SAMSUNG Smart TV QA50Q60TAKXXD",
+            "price": 9969000,
+            "img": "../assets/SAMSUNGQA50Q60TAKXXD.png",
+            "stock": 10
+        },
+
+        {
+            "userID": 1,
+            "id": 5,
+            "nama": "SAMSUNG Smart TV QA65LS03TAKXXD",
+            "price": 24998999,
+            "img": "../assets/SAMSUNGQA65LS03TAKXXD.png",
+            "stock": 12
+        },
+
+        {
+            "userID": 1,
+            "id": 6,
+            "nama": "Samsung Smart TV UA55TU8000KXXD",
+            "price": 8199000,
+            "img": "../assets/SAMSUNGUA55TU8000KXXD.png",
+            "stock": 13
+        },
+
+        {
+            "userID": 1,
+            "id": 7,
+            "nama": "Sharp 2T-C32BA1I Aquos LED",
+            "price": 1987000,
+            "img": "../assets/SHARP2T-C32BA1I.png",
+            "stock": 11
+        },
+
+        {
+            "userID": 1,
+            "id": 8,
+            "nama": "Sharp Smart LED TV 2T-C45AE1X",
+            "price": 4475000,
+            "img": "../assets/SHARP2T-C45AE1X.png",
+            "stock": 9
+        },
+        
+        {
+            "userID": 1,
+            "id": 9,
+            "nama": "Sharp Smart TV LC-32SA4500i",
+            "price": 2717000,
+            "img": "../assets/SHARPLC-32SA4500i.png",
+            "stock": 4
+        },
+
+        {
+            "userID": 1,
+            "id": 10,
+            "nama": "Toshiba LED TV  32L3965",
+            "price": 2399000,
+            "img": "../assets/TOSHIBA32L3965.png",
+            "stock": 6
+        },
+
+        {
+            "userID": 1,
+            "id": 11,
+            "nama": "Toshiba LED Smart TV 32L5995",
+            "price": 3499000,
+            "img": "../assets/TOSHIBA32L5995.png",
+            "stock": 8
+        },
+
+        {
+            "userID": 1,
+            "id": 12,
+            "nama": "Toshiba Smart TV 55U7950",
+            "price": 8799000,
+            "img": "../assets/TOSHIBA55U7950.png",
+            "stock": 9
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+      }
+}
